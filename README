@@ -1,0 +1,4 @@
+FaultTolerantTheories is a junit theories runner. 
+It differs from the provided Theories runner in that way that it doesn't stop running next test scenarios (data points) after the first failure 
+and prints theory execution summary only after all scenarios are run.
+Run StandardTheoriesBehaviorDemo and FaultTolerantTheoriesBehaviorDemo to compare two approaches. 
